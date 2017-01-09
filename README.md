@@ -1,2 +1,2 @@
-# uxprinciples
-A reference of the basic User Experience principles.
+# UX Principles
+A place to reference some basic UX Principles used at Ramsey Solutions.
